@@ -1,21 +1,21 @@
-# تطبيق تتبع الصحة واللياقة البدنية
-**Health & Fitness Tracking Application** · التصنيف: موبايل (Flutter)
+# Health & Fitness Tracking Application
+**Health & Fitness Tracking Application** · Category: Mobile (Flutter)
 
-> هذا المشروع خاص بشركة/عميل محدد، والكود المصدري غير منشور.
+> This project is private to a specific company/client, and the source code is not published.
 > Private client work — the source code is not public.
 
-## نبذة عن المشروع
-تطبيق لياقة شامل مع تكامل Google Fit / Apple HealthKit.
+## Project Overview
+A comprehensive fitness application with Google Fit / Apple HealthKit integration.
 
-## أبرز النقاط
-- Offline-First مع SQLite + مزامنة HTTP خلفية
-- مخططات Flutter متحركة مخصصة للتقدم
-- BLoC لتتبع التمارين والتغذية والجسم
+## Highlights
+- Offline-First with SQLite + background HTTP sync
+- Custom animated Flutter charts for progress
+- BLoC for tracking workouts, nutrition, and body metrics
 
-## الدور
-مطوّر تطبيقات موبايل (Flutter): بناء التطبيق وإدارة الحالة والتكامل مع الخدمات الخلفية والنشر على المتاجر.
+## Role
+Mobile App Developer (Flutter): building the app, state management, backend integrations, and publishing to app stores.
 
-## التقنيات المستخدمة
+## Technologies Used
 Flutter, Dart, BLoC, Google Fit API, Apple HealthKit, SQLite, REST API
 
-التفاصيل في [TECHSTACK.md](./TECHSTACK.md).
+Details in [TECHSTACK.md](./TECHSTACK.md).

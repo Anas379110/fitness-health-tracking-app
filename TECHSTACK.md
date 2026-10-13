@@ -1,4 +1,4 @@
-# 🛠️ التقنيات المستخدمة — تطبيق تتبع الصحة واللياقة البدنية
+# 🛠️ Technologies Used — Health & Fitness Tracking Application
 
 - Flutter
 - Dart
